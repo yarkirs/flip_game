@@ -10,11 +10,11 @@ let bird = new Image(),
 
 let gap = 90;
 
-bird.src = "../img/bird.png";
-bg.src = "../img/bg.png";
-footer.src = "../img/footer.png";
-pipeUp.src = "../img/pipeUp.png";
-pipeBottom.src = "../img/pipeBottom.png";
+bird.src = "/img/bird.png";
+bg.src = "/img/bg.png";
+footer.src = "/img/footer.png";
+pipeUp.src = "/img/pipeUp.png";
+pipeBottom.src = "/img/pipeBottom.png";
 
 
 let fly = new Audio(),
